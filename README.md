@@ -1,3 +1,24 @@
+## This is the challenge
+
+You will make a simple two page web project to demonstrate your skills in React/Web. You don't need to show a working end result, as long you show understanding for what's going on. It doesn't have to look good, I'm more interested in your JS skills.
+
+### Start Page
+Should have the following:
+- [ ] the current time
+- [ ] The elapsed time since the timer was started
+- [ ] a button to start the timer
+- [ ] a button to end the timer and to navigate to the /end page
+
+### End Page
+- [ ] the amount a seconds the timer was run for
+- [ ] a button to return to /start to restart the timer
+
+## Note:
+* Please fork this repo so that it's on your github profile.
+* Think about multiple approaches to each issue and note them down
+* Show your thoughts in comments
+* If you have time, go above and beyond
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
