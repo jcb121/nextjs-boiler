@@ -3,7 +3,7 @@ import { GetServerSideProps } from "next";
 type Props = {};
 
 const StartPage = () => {
-  const time = Date.now();
+  // const time = Date.now();
   const elapsedTime = 33;
 
   const handelStartTimer = () => {
@@ -16,8 +16,6 @@ const StartPage = () => {
 
   return (
     <div>
-      <div>Time now is {time}</div>
-
       <div>Elapsed time: {elapsedTime}</div>
 
       <button onClick={handelStartTimer}>Start Timer</button>
